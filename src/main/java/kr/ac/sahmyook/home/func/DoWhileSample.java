@@ -20,6 +20,7 @@ public class DoWhileSample {
         System.out.println("결과: " + output.toString());
     }
     public void burgerKingMenu(){
+        System.out.println("안녕하세요 버거킹입니다!!");
 
     }
     public void isStringAlphabet(){
